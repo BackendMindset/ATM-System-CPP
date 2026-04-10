@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\E.M\\source\\repos\\P.B.Eslam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27448E21-DEE7-4C4C-AB07-368B88F44988}|P.B.Eslam\\P.B.Eslam.vcxproj|C:\\Users\\E.M\\source\\repos\\P.B.Eslam\\P.B.Eslam\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27448E21-DEE7-4C4C-AB07-368B88F44988}|P.B.Eslam\\P.B.Eslam.vcxproj|solutionrelative:P.B.Eslam\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\E.M\\source\\repos\\P.B.Eslam\\P.B.Eslam\\Source.cpp",
+              "RelativeDocumentMoniker": "P.B.Eslam\\Source.cpp",
+              "ToolTip": "C:\\Users\\E.M\\source\\repos\\P.B.Eslam\\P.B.Eslam\\Source.cpp",
+              "RelativeToolTip": "P.B.Eslam\\Source.cpp",
+              "ViewState": "AgIAAJwFAAAAAAAAAAAgwMYFAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T00:40:15.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
