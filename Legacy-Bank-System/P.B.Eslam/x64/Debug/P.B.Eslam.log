@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\E.M\source\repos\P.B.Eslam\P.B.Eslam\Source.cpp(675,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
-C:\Users\E.M\source\repos\P.B.Eslam\P.B.Eslam\Source.cpp(740,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
-C:\Users\E.M\source\repos\P.B.Eslam\P.B.Eslam\Source.cpp(772,1): warning C4715: 'UpdateUserByUserName': not all control paths return a value
-  P.B.Eslam.vcxproj -> C:\Users\E.M\source\repos\P.B.Eslam\x64\Debug\P.B.Eslam.exe
